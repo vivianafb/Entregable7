@@ -1,0 +1,18 @@
+[
+    {
+      "id":"1",
+      "titulo": "Celulares"
+    },
+    {
+        "id":"2",
+        "titulo": "Computadores"
+    },
+    {
+        "id":"3",
+        "titulo": "Libros"
+    },
+    {
+        "id":"4",
+        "titulo": "Comida Gatitos"
+    }
+]
